@@ -11,7 +11,7 @@ const domRenderer = {
     renderFormToDom() {
         let divForForm = document.querySelector("#form-container")
         divForForm.innerHTML = htmlGenerator.formHtml()
-
+        
     }
 
 

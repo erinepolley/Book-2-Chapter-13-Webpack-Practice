@@ -20,7 +20,7 @@ const htmlGenerator = {
                 <br>
                 <label for="phone">Phone Number:</label>
                 <br>
-                <input type="tel" id="phone" name="phone" pattern=""[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="ex. 888-888-8888">
+                <input type="tel" id="phone" name="phone" placeholder="ex. 888-888-8888">
                 <br>
                 <label for="address">Address:</label>
                 <br>
